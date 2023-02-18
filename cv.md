@@ -64,5 +64,6 @@ Projects:
 
 Languages:
 
-    Russian, Ukrainian - native
+    Ukrainian - native
     English - fluent
+    Polska, Arabic - beginner
