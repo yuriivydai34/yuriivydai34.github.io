@@ -28,13 +28,27 @@ Study:
 
 Experience:
 
-    June 2022 - now - Avenga(Livable 1.0 project) - Service for property management and paying utility bills (Meteor, Mongo, AWS)
-    January 2022 - June 2022 - Intellias(Nomo) - Bank App (AWS Lambda, AWS CDK)
-    June 2021 - January 2022 - CloudPrinter(internal API) - Gathering APIs to desktop app(Electron, Vue, SQLite), Shopify API print plugin
-    May 2021 - June 2021 - Ecreative - E-commerce app(NestJs, Postgres/TypeORM, AWS, Firebase, GraphQL)
-    October 2020 - May 2021 - Quantixon - Making crawler (Nodejs/Express, RabbitMQ, Typescript/InversifyJS)
-    October 2019 - October 2020 - Collaborator - E-learning system(Koajs, Angular2, docker, AWS)
-    december 2018 - october 2019 - Drbanking (Java ee, primefaces, mysql), Assetminder (Java ee, jquery, mysql), Zimit(Nodejs, angular, docker, elastic search, postgresql), Cara ui(Extjs), Wabel(PHP, Angular2, Docker)
+    June 2022 - now - Service for paying utility bills (Meteor, Mongo, AWS, Stripe)
+
+    December 2018 - June 2022
+    projects:
+
+    Fintech project, Bank App (AWS Lambda, AWS CDK), E-commerce app(NestJs, Postgres/TypeORM, AWS, Firebase, GraphQL)
+
+    Crawler app for running ads (Nodejs/Express, RabbitMQ, Typescript/InversifyJS)
+
+    E-learning system(Koajs, Angular2, docker, AWS)
+
+    Drbanking (Java ee, primefaces, mysql)
+
+    Assetminder (Java ee, jquery, mysql)
+
+    Zimit(Nodejs, angular, docker, elastic search, postgresql)
+
+    Cara ui(Extjs)
+
+    Wabel(PHP, Angular2, Docker)
+
     june 2018 - december 2018 - TimeCamp(frontend), freelance rankhigher
 
 Projects:
