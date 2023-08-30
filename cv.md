@@ -51,7 +51,7 @@ Experience:
 
     june 2018 - december 2018 - TimeCamp(frontend), freelance rankhigher
 
-Projects:
+Pet Projects:
 
     1.
     Name of Employer: rankhigher.pl
