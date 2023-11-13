@@ -1,10 +1,10 @@
 ## Yurii Vydai
 Software developer, Fullstack web developer
-Ukraine, Lviv
+Ukraine, Sumy
 +380669692917
-E-mail: djurker21@gmail.com
+E-mail: yuriivydai@gmail.com
 
-Samples of code: https://github.com/djurker32
+Samples of code: https://github.com/yuriivydai34
 
 Good Typescript and Javascript knowledge, covering all my code with unit tests, integration tests. 
 A lot of experience working with AWS Beanstalk, CI/CD, Docker, Github Actions. Can do some front-end (React/Redux, Angular 2+, Vue/Vuex).
