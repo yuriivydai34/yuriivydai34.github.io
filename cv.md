@@ -49,7 +49,7 @@ Writing code, Deploying to AWS.
 ### CloudPrinter - June 2020 - June 2021
 Working with printing API, E-commerce app(NestJs, Postgres/TypeORM, AWS, Firebase, GraphQL)
 
-Responsibilities:
+### Responsibilities:
 Writing code, testing API.
 
 ### Davintoo, Collaborator - June 2019 - June 2020
