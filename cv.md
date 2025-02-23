@@ -28,7 +28,7 @@ Juice store, (Express, Nextjs, PostgreSQL, Flutter mobile app)
 ### Responsibilities:
 Writing code, Deploying to hosting.
 
-### October 2023 - October 2024 - Cloudbus(inbus.ua)
+### Cloudbus(inbus.ua) - October 2023 - October 2024
 Bus tickets, Backoffice (ExtJS, Node, PostgreSQL, PostGIS)
 
 ### Responsibilities:
