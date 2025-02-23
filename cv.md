@@ -3,7 +3,9 @@
 ### Software developer, Fullstack web developer 
 
 Ukraine, Sumy +38 (066) 969 2917 (telegram, whatsapp)
+
 E-mail: yuriivydai@gmail.com
+
 Samples of code: https://github.com/yuriivydai34
 
 Good Typescript and Javascript knowledge, covering all my code with unit tests, integration tests. A lot of experience working with AWS, and other hostings, remote administration. CI/CD, Docker, Github Actions. Can do some front-end (React/Redux, Angular, Vue/Vuex).
