@@ -1,84 +1,74 @@
 ## Yurii Vydai
-Software developer, Fullstack web developer
-Ukraine, Sumy
-+380669692917
-E-mail: yuriivydai@gmail.com
 
+### Software developer, Fullstack web developer 
+
+Ukraine, Sumy +38 (066) 969 2917 (telegram, whatsapp)
+E-mail: yuriivydai@gmail.com
 Samples of code: https://github.com/yuriivydai34
 
-Good Typescript and Javascript knowledge, covering all my code with unit tests, integration tests. 
-A lot of experience working with AWS Beanstalk, CI/CD, Docker, Github Actions. Can do some front-end (React/Redux, Angular 2+, Vue/Vuex).
+Good Typescript and Javascript knowledge, covering all my code with unit tests, integration tests. A lot of experience working with AWS, and other hostings, remote administration. CI/CD, Docker, Github Actions. Can do some front-end (React/Redux, Angular, Vue/Vuex).
 
-Programming skills:
+### Skills:
 
-    SQL(MySQL, PostgreSQL), NoSQL(MongoDB), 
-    Redis, ElasticSearch, RabbitMQ, GrayLog
-    Sequelize, TypeORM
-    NodeJS(Koajs, Express, Nestjs)
-    WebSocket(Nats, SocketIO)
-    JavaScript, Typescript(Angular, RxJS)
-    HTML5, CSS3, Sass
-    JWT, REST, Git, Docker, K8s, AWS
-    Ubuntu(Desktop, Server), MacOS
+SQL(MySQL, PostgreSQL), NoSQL(MongoDB), 
+Redis, ElasticSearch, RabbitMQ, GrayLog
+Sequelize, TypeORM
+NodeJS(Koajs, Express, Nestjs)
+WebSocket(SocketIO)
+HTML5, CSS3, Sass
+React, Vue, Nextjs, Angular
+JWT, REST, Git, Docker, Kubernetes, AWS(CDK, Beanstalk, Lambdas, EC2)
 
 
-Study:
+### Experience:
 
-    2009 - 2014 - Electrical Engineering, bachelor, at SSU
+Gaderia - gaderia.com.ua - October 2024 - Now - Juice store, (Express, Nextjs, PostgreSQL, Flutter mobile app)
 
-Experience:
+Responsibilities:
+Writing code, Deploying to hosting.
 
-    June 2022 - now - Service for paying utility bills (Meteor, Mongo, AWS, Stripe)
+October 2023 - October 2024 - Cloudbus(inbus.ua) - Bus tickets, Backoffice (ExtJS, Node, PostgreSQL, PostGIS)
 
-    December 2018 - June 2022
-    projects:
+Responsibilities:
+Writing code, Deploying to hosting
 
-    Fintech project, Bank App (AWS Lambda, AWS CDK), E-commerce app(NestJs, Postgres/TypeORM, AWS, Firebase, GraphQL)
+Avenga, Livable - June 2022 - October 2023 - Service for paying utility bills (Meteor, Mongo, AWS, Stripe)
 
-    Crawler app for running ads (Nodejs/Express, RabbitMQ, Typescript/InversifyJS)
+Responsibilities:
+Writing code, Deploying to AWS, making reports for the support team.
 
-    E-learning system(Koajs, Angular2, docker, AWS)
+Intellias, Nomo - June 2021 - June 2022 - Fintech project, Bank App (AWS Lambda, AWS CDK)
 
-    Drbanking (Java ee, primefaces, mysql)
+Responsibilities:
+Writing code, Deploying to AWS.
 
-    Assetminder (Java ee, jquery, mysql)
+CloudPrinter - June 2020 - June 2021 - Working with printing API, E-commerce app(NestJs, Postgres/TypeORM, AWS, Firebase, GraphQL)
 
-    Zimit(Nodejs, angular, docker, elastic search, postgresql)
+Responsibilities:
+Writing code, testing API.
 
-    Cara ui(Extjs)
+Davintoo, Collaborator - June 2019 - June 2020 - E-learning system(Koajs, Angular2, docker, AWS)
 
-    Wabel(PHP, Angular2, Docker)
+Responsibilities:
+Moving PHP backend API code to Nodejs(Koa), connecting Angular frontend to the new API.
+Writing code, Writing tests(code test coverage > 80%).
 
-    june 2018 - december 2018 - TimeCamp(frontend), freelance rankhigher
+Quantixon - June 2018 - June 2019 - Crawler app for running ads (Nodejs/Express, RabbitMQ, Typescript/InversifyJS)
 
-Pet Projects:
+Responsibilities:
+Writing code, Writing tests.
 
-    1.
-    Name of Employer: rankhigher.pl
-    Dates of Employment: June - December 2018
-    Job Title: Fullstack Developer
-    Project description: Google Search Console API, CTR statistics
-    Responsibilities: making backend, connecting to GSC, server administration
-    Technologies: Spring Boot, REST, PostgreSQL, Docker, Angular2+, HTML5/CSS3/JS, Heroku
+TimeCamp(frontend) - june 2018 - december 2018 - App for time tracking
 
-    2.
-    Name of Employer: CPCS Sumy
-    Dates of Employment: October - December 2017
-    Job Title: Fullstack Developer
-    Project description: Restaurant app(Test asignment). Group of people can make orders and edit order at realtime.
-    Responsibilities: making backend and frontend
-    Technologies: Spring Boot, REST, PostgreSQL, HTML5/CSS3/JS, Heroku, WebSocket
+Responsibilities:
+Writing code, Writing tests, SEO, Fixing styles.
 
-    3.
-    Name of Employer: Appdev Academy Sumy
-    Dates of Employment: October - November 2016
-    Job Title: RoR/ReactJS Web Developer
-    Project description: Blog app
-    Responsibilities: making backend and frontend
-    Technologies: RoR, REST, PostgreSQL, HTML5/CSS3/JS, ReactJS, Heroku
 
-Languages:
+### Study:
+2009 - 2014 - Electrical Engineering, bachelor, at Sumy State University
 
-    Ukrainian - native
-    English - fluent
-    Polska, Arabic - beginner
+
+### Languages:
+Ukrainian - native
+English - fluent
+
